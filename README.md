@@ -6,8 +6,6 @@ This repository documents AWS cloud concepts and migration strategies based on c
 - [AWS Well-Architected Framework](#aws-well-architected-framework)
 - [Cloud Migration Strategies](#cloud-migration-strategies)
 - [Key AWS Services](#key-aws-services)
-- [Best Practices](#best-practices)
-- [Next Steps](#next-steps)
 
 ## AWS Well-Architected Framework
 
@@ -81,18 +79,3 @@ Structured 6-perspective approach:
 | **CloudFront** | Networking | Global CDN, DDoS protection |
 | **S3** | Storage | Scalable object storage, 11 9's durability |
 
-## Best Practices
-
-### Security
-```json
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Principal": {"AWS": "arn:aws:iam::123456789012:user/Alice"},
-      "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::secure-bucket/*"
-    }
-  ]
-}
