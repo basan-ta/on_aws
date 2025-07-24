@@ -1,6 +1,6 @@
 # AWS Cloud Infrastructure & Migration Strategies
 
-![AWS Logo](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB.61d334f1aae4f729e3aa9b8c6a0a9fe4e4e0e88a.png)
+![AWS Logo]([https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB.61d334f1aae4f729e3aa9b8c6a0a9fe4e4e0e88a.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AAmazon_Web_Services_Logo.svg&psig=AOvVaw1tphZZYoSD_GYGtJ0vso_Z&ust=1753417830908000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiz9MrU1I4DFQAAAAAdAAAAABAE))
 
 This repository documents professional AWS cloud concepts and migration strategies based on comprehensive cloud training. The content aligns with AWS Well-Architected Framework best practices and enterprise migration methodologies.
 
